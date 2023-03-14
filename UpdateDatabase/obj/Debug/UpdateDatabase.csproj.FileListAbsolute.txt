@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Documents\WinformApp.netFrame\UpdateDatabase\UpdateDatabase\bin\Debug\UpdateDatabase.exe.config
+C:\Users\LENOVO\Documents\WinformApp.netFrame\UpdateDatabase\UpdateDatabase\bin\Debug\UpdateDatabase.exe
+C:\Users\LENOVO\Documents\WinformApp.netFrame\UpdateDatabase\UpdateDatabase\bin\Debug\UpdateDatabase.pdb
+C:\Users\LENOVO\Documents\WinformApp.netFrame\UpdateDatabase\UpdateDatabase\obj\Debug\UpdateDatabase.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\WinformApp.netFrame\UpdateDatabase\UpdateDatabase\obj\Debug\UpdateDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Documents\WinformApp.netFrame\UpdateDatabase\UpdateDatabase\obj\Debug\UpdateDatabase.Form1.resources
+C:\Users\LENOVO\Documents\WinformApp.netFrame\UpdateDatabase\UpdateDatabase\obj\Debug\UpdateDatabase.Properties.Resources.resources
+C:\Users\LENOVO\Documents\WinformApp.netFrame\UpdateDatabase\UpdateDatabase\obj\Debug\UpdateDatabase.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\WinformApp.netFrame\UpdateDatabase\UpdateDatabase\obj\Debug\UpdateDatabase.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\WinformApp.netFrame\UpdateDatabase\UpdateDatabase\obj\Debug\UpdateDatabase.exe
+C:\Users\LENOVO\Documents\WinformApp.netFrame\UpdateDatabase\UpdateDatabase\obj\Debug\UpdateDatabase.pdb
